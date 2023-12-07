@@ -163,5 +163,4 @@ for (let i = 0; i < knygos.length; i++) {
     for (const hero in knyga.heroes) {
       console.log(`    ${hero}: ${knyga.heroes[hero]}`);
     }
-    console.log();
   }
